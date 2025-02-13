@@ -3,120 +3,120 @@
         "precio": 125,
         "id": 1,
         "nombre":"modelo 1",
-        "miniUrl": "http://olinav.fwh.is/img/1.png"
+        "miniUrl": "https://oly-i.github.io/api/img/1.png"
     },
     {
         "precio": 125,
         "id":2,
         "nombre":"modelo 2",
-        "miniUrl": "http://olinav.fwh.is/img/2.png"
+        "miniUrl": "https://oly-i.github.io/api/img/2.png"
     },
     {
         "precio": 125,
         "id": 3,
         "nombre":"modelo 3",
-        "miniUrl": "http://olinav.fwh.is/img/3.png"
+        "miniUrl": "https://oly-i.github.io/api/img/3.png"
     },
     {
         "precio": 125,
         "id": 4,
         "nombre":"modelo 4",
-        "miniUrl": "http://olinav.fwh.is/img/4.png"
+        "miniUrl": "https://oly-i.github.io/api/img/4.png"
     },
     {
         "precio": 125,
         "id" :5,
         "nombre":"modelo 5",
-        "miniUrl": "http://olinav.fwh.is/img/5.png"
+        "miniUrl": "https://oly-i.github.io/api/img/5.png"
     },
     {
         "precio": 125,
         "id": 6,
         "nombre":"modelo 6",
-        "miniUrl": "http://olinav.fwh.is/img/6.png"
+        "miniUrl": "https://oly-i.github.io/api/img/6.png"
     },
     {
         "precio": 125,
         "id": 7,
         "nombre":"modelo 7",
-        "miniUrl": "http://olinav.fwh.is/img/7.png"
+        "miniUrl": "https://oly-i.github.io/api/img/7.png"
     },
     {
         "precio": 125,
         "id": 8,
         "nombre":"modelo 8",
-        "miniUrl": "http://olinav.fwh.is/img/8.png"
+        "miniUrl": "https://oly-i.github.io/api/img/8.png"
     },
     {
         "precio": 125,
         "id": 9,
         "nombre":"modelo 9",
-        "miniUrl": "http://olinav.fwh.is/img/9.png"
+        "miniUrl": "https://oly-i.github.io/api/img/9.png"
     },
     {
         "precio": 125,
         "id": 10,
         "nombre":"modelo 10",
-        "miniUrl": "http://olinav.fwh.is/img/10.png"
+        "miniUrl": "https://oly-i.github.io/api/img/10.png"
     },
     {
         "precio": 125,
         "id": 11,
         "nombre":"modelo 11",
-        "miniUrl": "http://olinav.fwh.is/img/11.png"
+        "miniUrl": "https://oly-i.github.io/api/img/11.png"
     },
     {
         "precio": 125,
         "id": 12,
         "nombre":"modelo 12",
-        "miniUrl": "http://olinav.fwh.is/img/12.png"
+        "miniUrl": "https://oly-i.github.io/api/img/12.png"
     },
     {
         "precio": 125,
         "id": 13,
         "nombre":"modelo 13",
-        "miniUrl": "http://olinav.fwh.is/img/13.png"
+        "miniUrl": "https://oly-i.github.io/api/img/13.png"
     },
     {
         "precio": 125,
         "id": 14,
         "nombre":"modelo 14",
-        "miniUrl": "http://olinav.fwh.is/img/14.png"
+        "miniUrl": "https://oly-i.github.io/api/img/14.png"
     },
     {
         "precio": 125,
         "id": 15,
         "nombre":"modelo 15",
-        "miniUrl": "http://olinav.fwh.is/img/15.png"
+        "miniUrl": "https://oly-i.github.io/api/img/15.png"
     },
     {
         "precio": 125,
         "id": 16,
         "nombre":"modelo 16",
-        "miniUrl": "http://olinav.fwh.is/img/16.png"
+        "miniUrl": "https://oly-i.github.io/api/img/16.png"
     },
     {
         "precio": 125,
         "id": 17,
         "nombre":"modelo 17",
-        "miniUrl": "http://olinav.fwh.is/img/17.png"
+        "miniUrl": "https://oly-i.github.io/api/img/17.png"
     },
     {
         "precio": 125,
         "id": 18,
         "nombre":"modelo 18",
-        "miniUrl": "http://olinav.fwh.is/img/18.png"
+        "miniUrl": "https://oly-i.github.io/api/img/18.png"
     },
     {
         "precio": 125,
         "id": 19,
         "nombre":"modelo 19",
-        "miniUrl": "http://olinav.fwh.is/img/19.png"
+        "miniUrl": "https://oly-i.github.io/api/img/19.png"
     },
     {
         "precio": 125,
         "id": 20,
         "nombre":"modelo 20",
-        "miniUrl": "http://olinav.fwh.is/img/20.png"
+        "miniUrl": "https://oly-i.github.io/api/img/20.png"
     }
 ]
